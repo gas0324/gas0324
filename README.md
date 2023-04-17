@@ -1,5 +1,12 @@
-### Hi there 👋
+# 👋 欢迎光临我的主页！
 
+## 我的开源项目
+
+| 项目                                                  | 说明                                          |
+| :-:                                                   | :-:                                           |
+| [mysql](https://github.com/gas0324/mysql)             | 适用于Node.js的MySQL生成器                    |
+| [util](https://github.com/gas0324/util)               | javascript工具函数                            |
+| [ng-calendar](https://github.com/gas0324/ng-calendar) | ng-as-calendar是一个基于angular封装的日历组件 |
 <!--
 **gas0324/gas0324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
